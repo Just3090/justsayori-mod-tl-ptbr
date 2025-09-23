@@ -4,13 +4,13 @@ translate ptbr strings:
 
     # game/api/tl-backend.rpy:21
     old "Please select a language"
-    new ""
+    new "Por favor selecione um idioma"
 
     # game/api/tl-backend.rpy:27
     old "Language"
-    new ""
+    new "Idioma"
 
     # game/api/tl-backend.rpy:83
     old "OK"
-    new ""
+    new "Ok"
 
