@@ -4,19 +4,19 @@
 translate ptbr compliment_best_girl_51fa6b97:
 
     # s abagcea "I'm the best girl? Aww, you're so sweet, [player]!"
-    s abagcea ""
+    s abagcea "Eu sou a melhor garota? Eeeh, você é tão doce, [player]!"
 
 # game/dialogs/script-compliments.rpy:63
 translate ptbr compliment_best_girl_f4535cc3:
 
     # s abagdka "I'm really happy you think so! It means a lot to me, ehehehe~"
-    s abagdka ""
+    s abagdka "Fico tããão feliz que você pense assim! Isso significa muito pra mim, ehehe~"
 
 # game/dialogs/script-compliments.rpy:64
 translate ptbr compliment_best_girl_2934d886:
 
     # s bbfclfc "After all, I always thought that I might be the least likable given the fact most would choose one of my friends over me, but..."
-    s bbfclfc ""
+    s bbfclfc "Sabe… eu sempre achei que talvez eu fosse a menos querida, já que a maioria escolheria uma das minhas amigas em vez de mim… mas..."
 
 # game/dialogs/script-compliments.rpy:67
 translate ptbr compliment_best_girl_40f87437:
