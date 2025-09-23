@@ -4,5 +4,5 @@ translate ptbr strings:
 
     # game/additional/rpc.rpy:15
     old "Spending Time With Sayori"
-    new ""
+    new "Passando tempo com a Sayori"
 
