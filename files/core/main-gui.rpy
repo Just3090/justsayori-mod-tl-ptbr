@@ -4,61 +4,61 @@
 translate ptbr boop_90f0707f:
 
     # s "Did you just boop me?"
-    s ""
+    s "Você acabou de me cutucar?"
 
 # game/core/main-gui.rpy:96
 translate ptbr boop_0661005f:
 
     # s "Ehehehe~"
-    s ""
+    s "Ehehehe~"
 
 translate ptbr strings:
 
     # game/core/main-gui.rpy:17
     old "Talk"
-    new ""
+    new "Conversar"
 
     # game/core/main-gui.rpy:20
     old "Music"
-    new ""
+    new "Músicas"
 
     # game/core/main-gui.rpy:22
     old "Play"
-    new ""
+    new "Jogar"
 
     # game/core/main-gui.rpy:35
     old "VGFsaw=="
-    new ""
+    new "VGFsaw=="
 
     # game/core/main-gui.rpy:37
     old "TXVzaWM="
-    new ""
+    new "TXVzaWM="
 
     # game/core/main-gui.rpy:39
     old "UGxheQ=="
-    new ""
+    new "UGxheQ=="
 
     # game/core/main-gui.rpy:53
     old "I love you too!"
-    new ""
+    new "Eu também te amo!"
 
     # game/core/main-gui.rpy:56
     old "I love you!"
-    new ""
+    new "Eu te amo!"
 
     # game/core/main-gui.rpy:59
     old "I want to tell you something..."
-    new ""
+    new "Gostaria de falar uma coisa..."
 
     # game/core/main-gui.rpy:61
     old "I'm sorry."
-    new ""
+    new "Me desculpe."
 
     # game/core/main-gui.rpy:63
     old "Goodbye"
-    new ""
+    new "Adeus"
 
     # game/core/main-gui.rpy:66
     old "Back"
-    new ""
+    new "Voltar"
 
