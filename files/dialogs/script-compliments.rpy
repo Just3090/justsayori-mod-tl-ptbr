@@ -22,55 +22,55 @@ translate ptbr compliment_best_girl_2934d886:
 translate ptbr compliment_best_girl_40f87437:
 
     # s abfbcqa "I'm glad you care so much about me! I love you, [player]~"
-    s abfbcqa ""
+    s abfbcqa "Estou tão feliz em saber que você se importa tanto comigo! Eu te amo, [player]~"
 
 # game/dialogs/script-compliments.rpy:69
 translate ptbr compliment_best_girl_19d2ddbd:
 
     # s abfbcqa "I'm glad you care so much about me!"
-    s abfbcqa ""
+    s abfbcqa "Estou tão feliz em saber que você se importa tanto comigo!"
 
 # game/dialogs/script-compliments.rpy:92
 translate ptbr compliment_beautiful_f94f581b:
 
     # s abhfmkb "You think so, [player]? Aww, I don't know what to say, ehehehe~"
-    s abhfmkb ""
+    s abhfmkb "Você acha isso mesmo, [player]? Ahhh, não sei o que dizer, ehehehe~"
 
 # game/dialogs/script-compliments.rpy:93
 translate ptbr compliment_beautiful_c64a72cf:
 
     # s bbhfmebj "Especially since I'm pretty messy sometimes, ahahaha..."
-    s bbhfmebj ""
+    s bbhfmebj "Principalmente porque às vezes eu sou meio boba, ahahaha..."
 
 # game/dialogs/script-compliments.rpy:94
 translate ptbr compliment_beautiful_fc4fa1e7:
 
     # s abfccea "But that means so much to me coming from you, [player]!"
-    s abfccea ""
+    s abfccea "Mas... Isso significa muito pra mim, vindo de você, [player]!"
 
 # game/dialogs/script-compliments.rpy:96
 translate ptbr compliment_beautiful_105f1009:
 
     # s abfcdqa "Remember that you're the most beautiful person in the world to me too!"
-    s abfcdqa ""
+    s abfcdqa "Lembre-se que você também é a pessoa mais linda do mundo para mim!"
 
 # game/dialogs/script-compliments.rpy:118
 translate ptbr compliment_pretty_65ad3ed5:
 
     # s abaacka "Aww [player], your words always flatter me~"
-    s abaacka ""
+    s abaacka "Ahh [player], suas palavras sempre me trás alegria~"
 
 # game/dialogs/script-compliments.rpy:119
 translate ptbr compliment_pretty_a5d98775:
 
     # s abaacoa "It makes me so happy knowing you think so!"
-    s abaacoa ""
+    s abaacoa "Fico muito feliz por saber que você pensa assim!"
 
 # game/dialogs/script-compliments.rpy:120
 translate ptbr compliment_pretty_22824ab9:
 
     # s abfcjoa "And I always think you're pretty too!"
-    s abfcjoa ""
+    s abfcjoa "E eu sempre acho você uma pessoa bonita também!"
 
 # game/dialogs/script-compliments.rpy:142
 translate ptbr compliment_love_hair_d9d14b3c:
